@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Feb 08 14:33:25 2021
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : VGA_tan
+Top-level Entity Name : VGA_tan
+Family : Cyclone IV E
+Device : EP4CE10F17C6
+Timing Models : Final
+Total logic elements : 9,800 / 10,320 ( 95 % )
+    Total combinational functions : 9,779 / 10,320 ( 95 % )
+    Dedicated logic registers : 479 / 10,320 ( 5 % )
+Total registers : 479
+Total pins : 25 / 180 ( 14 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
